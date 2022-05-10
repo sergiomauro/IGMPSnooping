@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IGMPSnooping", "IGMPSnooping\IGMPSnooping.csproj", "{0D03D0FD-F422-4295-A3CC-71E75B55D8EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{321FBAC2-3385-49BB-9828-FE3D99ED3150}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D03D0FD-F422-4295-A3CC-71E75B55D8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D03D0FD-F422-4295-A3CC-71E75B55D8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D03D0FD-F422-4295-A3CC-71E75B55D8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D03D0FD-F422-4295-A3CC-71E75B55D8EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{321FBAC2-3385-49BB-9828-FE3D99ED3150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321FBAC2-3385-49BB-9828-FE3D99ED3150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321FBAC2-3385-49BB-9828-FE3D99ED3150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321FBAC2-3385-49BB-9828-FE3D99ED3150}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {095EBD17-0B3E-49F0-961A-7AA104743F85}
+	EndGlobalSection
+EndGlobal
